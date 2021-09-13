@@ -1,4 +1,4 @@
-### Follow https://github.com/farismismar/Deep-Reinforcement-Learning-for-5G-Networks/blob/master/voice/environment.py
+### https://github.com/farismismar/Deep-Reinforcement-Learning-for-5G-Networks/blob/master/voice/environment.py
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
